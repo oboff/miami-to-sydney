@@ -1,5 +1,6 @@
 # miami-to-sydney
-TODO before my trip from Miami to Sydney
+TODO before my trip from Miami to Sydney.
+
 This README will serve as a microblog for my daily progress.
 
 Friday, May 22, 2015: 
