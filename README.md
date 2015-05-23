@@ -10,5 +10,3 @@ I wrote a bunch of tasks that I need to complete before my trip to Sydney on Jun
 My tasks fall under these major categories: Obtain travel documentation, Acquire Miscrosoft certifications, and Create coding portfolio.
 
 Uploaded countdownToSydney.html and countdownToSydney.js which just let me see how many days until the flight (24 days). 
-
-\***todo**\* Days remaining in Javscript:
